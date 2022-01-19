@@ -1,0 +1,8 @@
+div{margin-left: 20px; margin-top: 40px;margin-bottom: 50px;margin-right: 25; width: 400px; height: 300px; background-color: blue;
+
+}
+/* DEFINIR CLASSE EM CSS*/
+.par{ background-color: red;}
+.par p{background-color: seagreen;}
+p{font-size: 18px;margin: 0%;}
+.par p span {background-color: purple;}
